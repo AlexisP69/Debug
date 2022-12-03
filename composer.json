@@ -1,0 +1,17 @@
+{
+    "name": "leader/composer",
+    "require": {
+        "twig/twig": "^3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Leader\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alexis",
+            "email": "alexis.poinsignon@ynov.com"
+        }
+    ]
+}
